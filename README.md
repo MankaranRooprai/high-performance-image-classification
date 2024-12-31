@@ -71,6 +71,16 @@ TensorBoard was used to monitor the training process in real-time. From the outp
 
 The training progress indicated that the model was learning effectively from the data, with validation performance improving by the end of the 5 epochs. The logs provide an effective way to diagnose the model's learning curve and ensure that it is not overfitting or underfitting during training.
 
+![image](https://github.com/user-attachments/assets/d26cc992-8726-4d98-b34e-85363685571a)
+
+![image](https://github.com/user-attachments/assets/535bc883-c5b3-458f-ac48-3c27f487ee7c)
+
+![image](https://github.com/user-attachments/assets/73f303c0-aac6-4bf1-8457-24478b099f9f)
+
+![image](https://github.com/user-attachments/assets/10c0bc44-3455-446a-8f7c-62b653d9be56)
+
+![image](https://github.com/user-attachments/assets/1b1cc301-3365-4be7-9f17-1aed26f0802e)
+
 ## 5. Overall Model Evaluation
 
 While the **accuracy** of the model on CIFAR-10 was not exceptionally high (peaking at around **55%** validation accuracy), it’s worth noting that CIFAR-10 is a challenging dataset with small and varied images. The performance could be further improved with:
